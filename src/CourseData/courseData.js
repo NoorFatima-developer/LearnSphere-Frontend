@@ -1,6 +1,8 @@
 import soniye from "../video/soniye.mp4";
 import dil from "../video/dil.mp4";
 import introduction from "../video/introduction.mp4";
+
+// courseData...
 export const courseData = [
   {
     secName: "Welcome sectin 1 !",
