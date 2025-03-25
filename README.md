@@ -1,6 +1,6 @@
 # LearnSphere
 
-Welcome to LearnSphere, a web application that enables students to buy courses and teachers to sell their courses, similar to Udemy. This project is built using the MERN stack (MongoDB, Express, React, Node.js) and is designed to provide an intuitive and user-friendly learning experience.
+Welcome to LearnSphere, a web application that enables students to buy courses and teachers to sell their courses, similar to Udemy. This project is built using the MERN stack (MongoDB, Express, React, Node.js) and is designed to provide an intuitive and user-friendly learning experience..
 
 ## Features
 
